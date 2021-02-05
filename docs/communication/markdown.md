@@ -1,7 +1,8 @@
 # Markdown
 
 ## stackedit.io
- stackedit.io ist ein Online-Markdown-Editor, der sich besonders zur Arbeit an größeren Dokumentensammlungen eignet, die sich in GitHub- oder GitLab-Repositories befinden. Im Editor lassen sich unterschiedliche *Workspaces* auf Basis dieser Datenquellen anlegen. Über eine grafische Oberfläche können Dateien erstellt, ausgewählt und bearbeitet werden. Der Editor verfügt gegenüber den auf GitHub oder GitLab verfügbaren Vari
+ stackedit.io ist ein Online-Markdown-Editor, der sich besonders zur Arbeit an größeren Dokumentensammlungen eignet, die sich in GitHub- oder GitLab-Repositories befinden. Im Editor lassen sich unterschiedliche *Workspaces* auf Basis dieser Datenquellen anlegen. Über eine grafische Oberfläche können Dateien erstellt, ausgewählt und bearbeitet werden. Der Editor verfügt gegenüber den auf GitHub oder GitLab verfügbaren Varianten über einige sinnvolle Komfortfunktionen und Formatierungshilfen. 
+Änderungen an den Dokumenten können via GUI mit den verknüpften Repositories synchronisiert werden.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNTk1NzMwXX0=
+eyJoaXN0b3J5IjpbLTEyODM0MTE3NjRdfQ==
 -->
